@@ -1,4 +1,4 @@
-# cury_company
+# Cury Company
 
 # 1. Problema de negócio
 A Cury Company é uma empresa de tecnologia que criou um
